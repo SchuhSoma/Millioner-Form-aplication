@@ -1,0 +1,30 @@
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe.config
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.pdb
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Form1.resources
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Properties.Resources.resources
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.GenerateResource.cache
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.exe
+C:\Users\Soma\Documents\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.pdb
+D:\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe.config
+D:\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe
+D:\C#2\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.pdb
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csprojAssemblyReference.cache
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Form1.resources
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Properties.Resources.resources
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.GenerateResource.cache
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.exe
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.pdb
+D:\C#2\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe.config
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.exe
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\bin\Debug\Kvíz WinForm.pdb
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Form1.resources
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz_WinForm.Properties.Resources.resources
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.GenerateResource.cache
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.exe
+C:\Users\Soma\Documents\Kvíz WinForm\Kvíz WinForm\obj\Debug\Kvíz WinForm.pdb

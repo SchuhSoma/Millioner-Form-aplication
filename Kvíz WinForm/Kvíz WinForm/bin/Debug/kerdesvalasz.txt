@@ -1,0 +1,25 @@
+01;Hogy hívják azt a misztikus erőt, melynek egy világos és egy sötét oldala is van?;tömeg;gyorsítás;hatalom;végtelenség;C
+02;Milyen teremtmény Chewbacca?;vuki;waikiki;nagy lábú;evok;A
+03;Mi  R2D2 és C3PO?;droidák;kiborgok;klónok;droidok;D
+04;Ki ismert a Darth Sidius név latt is?;Szenátor Palpatine;Darth Vader;Mace Windu;Jango Fett;A
+05;Mit állít Han Solo, mennyi időre lenne szüksége a Millenium Falcon-nak a "Kessel útvonalra"?;1 másodperc;8 bogon;12 parseck;Warp 2;C
+06;Ki nem volt Jedi?;Obi-Wan Kenobi;Anakin Skywalker;Boba Fett;Qui-Gon Jinn;C
+07;Melyik város adminisztrátora és bárója volt Lando Calrissain?;Felhőváros;Fellegvár;Bespin;Yavin 4;C
+08;Milyen kapcsolatban áll Padme Amidala Leila hercegnővel?;az anyja;a nővére;a tanárja;a bébiszittere;A
+09;Melyik mikroszkopikus életforma áll kapcsolatban a hatalommal?;midikloriánok;  mini-Anakinszok;  sötét baktériumok;  az anyaggal;A
+10;Melyik bolygón élnek a Tantaunok?; Hoth;  Centax-1;  Dagobah;  Tatuin;A
+11;Hány évesen hunyt el Yoda?; 500;  400;  1000;  900;D
+12;George Lucas miből fabrikálta meg R2-D2 nevét?; Reel 2, Dialog Track 2;  Robot 2, Deal Information 2;  Root 2, D Drive 2;  Radio 2, Duo Channel 2;D
+13;Mely hónap negyedik napját tarja a Star Wars közösség a Star Wars születésnapjának?; Április;  Május;  Június;  Július;B
+14;Milye kapcsolatban van Bobba Fett Jango Fettel?; Apa fia;  fia Apja;  a klónja;  semmilyen;B
+15;Milyen nyelven beszélnk egymással a Jawak?; japánul;  Busman nyelven;  magyarul;  halandzsa nyelven;B
+16;Hány tagja van a Jedik tancsának?; 6;  9;  12;  15;C
+17;Kinek a fénykardját kapta meg Luke Skywalker Obi-Van Kenobi-tól?; az apja;  a nagybátyja;  egy idegen rég elhunyt Jedi-ét;  Ahsoka Tano;A
+18;Hogy nyere el Han Solo a Millenium Falcont?; kockán;  ruletten;  pókeren;  lóversenyen;C
+19;A Yavin hanyadik bolygója volt a lázadó szövetség bázisa?; 1;  2;  5;  4;D
+20;Melyik filmben hal meg Yoda?; Baljos árnyak;  A Birodalom visszavág;  A Jedi vissztér;  Új remény;C
+21;Ki rendezte A Jedi visszatér című epizódot?; Steven Spilberg; Irvin Kershner;  George Lucas;  Richard Marquand;D
+22;Milyen fajba tartozik Yoda mester?; Selkath; Quarren;  Gran;  Nem ismert faj;D
+23;Mely kategóriában jelölték Oscar díjra a Star Wars Új reményt?; A legjobb sci-fie;  a legjobb mellékszereplő;  A Legjobb film;  A legjobb látvány;C
+24;Chewbacca karakterét milyen állat inspirálta?; majom;  medve;  Kutya;  pluss állat;C
+25;Mi volt Luke Skywalker neve eredetileg a forgatókönyvben?; Luke Skywalker;  Luke Starkiller;  Luke Skyanger;  Luke Starfighter;B
